@@ -1,0 +1,24 @@
+body{
+
+    background-color: grey;
+}
+
+
+#azmodious{
+    box-shadow: 0 8px 16px 0
+    #eb69a7 , 0 6px 20px 0 rgba(243, 6, 6, 0.979);
+    border: none;
+}
+#azmodious:hover{
+    opacity: .5;
+}
+
+.skills ol li{
+color: black; 
+}
+img{
+    height: 750px;
+    width: 550px;
+  float: right;
+  background-color: gray;
+}
