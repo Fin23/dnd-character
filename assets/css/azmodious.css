@@ -1,6 +1,12 @@
 body{
 
     background-color: grey;
+    background-image: url("../Image/background.jpg"); /* The image used */
+ 
+    height: 500px; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover;
 }
 
 
@@ -21,4 +27,10 @@ img{
     width: 550px;
   float: right;
   background-color: gray;
+}
+header{
+    text-align: center;
+}
+#spell-book{
+    border-radius: 50%;
 }
